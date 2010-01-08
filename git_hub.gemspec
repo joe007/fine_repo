@@ -16,7 +16,10 @@ Gem::Specification.new do |s|
     "README"
   ]
   s.files = [
-    "README"
+    "README",
+     "Rakefile",
+     "VERSION",
+     "git_hub.gemspec"
   ]
   s.homepage = %q{http://github.com/arvicco/git_hub}
   s.rdoc_options = ["--charset=UTF-8"]
